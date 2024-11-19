@@ -2,7 +2,7 @@
 <img src="https://github.com/lotfi-cheikh/lotfi-cheikh/blob/main/Quelle-resolution-pour-ecran-pc-gamer.jpg" />
 
 ## 🚀 À propos de moi
-Je suis un développeur full stack...
+Je suis un apprenti en informatique
 
 ## 🔗 Liens
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
