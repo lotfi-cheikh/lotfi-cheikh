@@ -1,4 +1,5 @@
 # Salut, je suis Lotfi! 👋
+<img src="https://github.com/lotfi-cheikh/lotfi-cheikh/blob/main/Quelle-resolution-pour-ecran-pc-gamer.jpg" />
 
 ## 🚀 À propos de moi
 Je suis un développeur full stack...
