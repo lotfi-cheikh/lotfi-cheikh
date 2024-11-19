@@ -15,7 +15,7 @@ Je suis un apprenti en informatique
 🧠 J'apprends actuellement la cybersécurité
 
 📫 Comment me contacter:
-par mail:lotfi.cheikh@laplateforme.io
+par mail: lotfi.cheikh@laplateforme.io
 
 
 
