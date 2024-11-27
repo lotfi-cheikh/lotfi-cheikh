@@ -19,4 +19,4 @@ Je suis un apprenti en informatique qui cherche une alternance en cybersécurit�
 par mail: lotfi.cheikh@laplateforme.io
 
 ## 🛠 Compétences
-Javascript, HTML, CSS, Python
+Javascript, HTML, CSS, Python, Linux, Windows
